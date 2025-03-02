@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.anonymous.SocialInvite",
+      "sha256_cert_fingerprints": [
+        "94:3E:04:0C:FE:D8:1D:5B:90:93:03:EC:A5:7F:2A:80:A7:8C:BC:62:2B:B8:57:52:63:A9:EF:35:69:6F:6C:48"
+      ]
+    }
+  }
+]
